@@ -1,0 +1,2978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="846ebec2-c5b0-4912-acd6-60c6bb536abd" name="Default Changelist" comment="commit all">
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8e2b8d02-9fc9-4024-bdd1-fb934e2b61bd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8e2b8d02-9fc9-4024-bdd1-fb934e2b61bd/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Persistance/Persistance_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerAdmin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerAdmin$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerAdmin$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerAdmin$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerAdmin$CustomIntegerStringConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerAgent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerAgent$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerAgent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerLogin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerLogin$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerRegister$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerRegister$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/ControllerRegister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/StartObjectClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/StartObjectClient$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/classes/StartObjectClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/bd.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/cssDesign/myButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/cssDesign/myDialogs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/gui/Agent.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/gui/Register.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/gui/admin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/gui/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/pozik/logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/pozik/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/server.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/out/production/resources/spring-client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/ControllerAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/ControllerAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/ControllerLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/ControllerRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/StartObjectClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/bd.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/cssDesign/myButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/cssDesign/myDialogs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/gui/Agent.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/gui/Register.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/gui/admin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/gui/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/pozik/logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/pozik/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/server.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/spring-client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/out/production/classes/model/HibernateUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/out/production/classes/model/Produs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/out/production/classes/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/src/main/java/model/HibernateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/src/main/java/model/Produs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistance/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistance/out/production/classes/repo/RepoProdus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistance/out/production/classes/repo/RepoUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistance/out/production/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistance/out/production/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistance/src/main/java/repo/RepoProdus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistance/src/main/java/repo/RepoUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistance/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistance/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/out/production/classes/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/out/production/classes/StartObjectServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/out/production/resources/bd.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/out/production/resources/server.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/out/production/resources/spring-server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/java/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/java/StartObjectServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/resources/bd.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/resources/server.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/resources/spring-server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/out/production/classes/IObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/out/production/classes/IServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/out/production/classes/ServerEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/src/main/java/IObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/src/main/java/IServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/src/main/java/ServerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/out/production/classes/validator/ProdusValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/out/production/classes/validator/UserValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/out/production/classes/validator/ValidationException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/out/production/classes/validator/Validator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/src/main/java/validator/ProdusValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/src/main/java/validator/UserValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/src/main/java/validator/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/src/main/java/validator/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test.log" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/Model/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Model/build/" />
+    <ignored path="$PROJECT_DIR$/Model/out/" />
+    <ignored path="$PROJECT_DIR$/Persistance/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Persistance/build/" />
+    <ignored path="$PROJECT_DIR$/Persistance/out/" />
+    <ignored path="$PROJECT_DIR$/Server/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Server/build/" />
+    <ignored path="$PROJECT_DIR$/Server/out/" />
+    <ignored path="$PROJECT_DIR$/Client/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Client/build/" />
+    <ignored path="$PROJECT_DIR$/Client/out/" />
+    <ignored path="$PROJECT_DIR$/Services/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Services/build/" />
+    <ignored path="$PROJECT_DIR$/Services/out/" />
+    <ignored path="$PROJECT_DIR$/Validator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Validator/build/" />
+    <ignored path="$PROJECT_DIR$/Validator/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="iss.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="iss.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="iss.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="iss.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="User: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="labServer" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1181038401">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/" value="1" />
+          <entry key="JavaScript-modules-diagram/D:/an2/iss/server/Client/src" value="1" />
+          <entry key="gradle" value="27" />
+          <entry key="gradlew" value="1" />
+          <entry key="java" value="87" />
+          <entry key="produs" value="1" />
+          <entry key="properties" value="14" />
+          <entry key="sql" value="1" />
+          <entry key="user" value="5" />
+          <entry key="xml" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="6" />
+          <entry key="Groovy" value="27" />
+          <entry key="JAVA" value="87" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="14" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="89" />
+          <entry key="gradle" value="158" />
+          <entry key="java" value="1037" />
+          <entry key="txt" value="13" />
+          <entry key="xml" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="158" />
+          <entry key="JAVA" value="1037" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Scratch" value="89" />
+          <entry key="XML" value="97" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/src/main/java/StartObjectClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/src/main/resources/server.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/src/main/resources/bd.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/src/main/java/StartObjectServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/src/main/resources/spring-server.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/src/main/java/ControllerAdmin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Model/src/main/java/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/src/main/java/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/src/main/resources/spring-client.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Meci</find>
+      <find>domain</find>
+      <find>getAllProdusuri</find>
+      <find>55558</find>
+      <find>jdbc:sqlite:D:\\an2\\iss\\lab3\\iss.db</find>
+      <find>noti</find>
+      <find>cli</find>
+      <find>//</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Produs</replace>
+      <replace>model</replace>
+      <replace>getProduse</replace>
+      <replace />
+      <replace>55559</replace>
+      <replace>jdbc:sqlite:D:\\an2\\iss\\server\\iss.db</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\User\.gradle\wrapper\dists\gradle-4.8-all\41c9mvq2w0645xx6nsenaerjl\gradle-4.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="labServer" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="labServer" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":Client" />
+                <option name="path" value="$PROJECT_DIR$/Client" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":Model" />
+                <option name="path" value="$PROJECT_DIR$/Model" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":Persistance" />
+                <option name="path" value="$PROJECT_DIR$/Persistance" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":Server" />
+                <option name="path" value="$PROJECT_DIR$/Server" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":Services" />
+                <option name="path" value="$PROJECT_DIR$/Services" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":Validator" />
+                <option name="path" value="$PROJECT_DIR$/Validator" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'labServer'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'labServer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'labServer'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'labServer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'labServer'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'labServer' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'labServer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'labServer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'labServer'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Client">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':Client'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':Client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':Client'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':Client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':Client'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':Client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':Client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':Client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':Client'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Client" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Model">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':Model'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':Model'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':Model'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':Model'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':Model'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':Model'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':Model'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':Model'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':Model'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Model" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Persistance">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':Persistance'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':Persistance'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':Persistance'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':Persistance'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':Persistance'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':Persistance'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':Persistance'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':Persistance'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':Persistance'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Persistance" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Server">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':Server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':Server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':Server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':Server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':Server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':Server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':Server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':Server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':Server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Server" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Services">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':Services'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':Services'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':Services'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':Services'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':Services'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':Services'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':Services'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':Services'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':Services'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Services" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Validator">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':Validator'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':Validator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':Validator'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':Validator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':Validator'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':Validator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':Validator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':Validator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':Validator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Validator" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="15630226535272" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/Client/build.gradle" value="3385302132" />
+        <entry key="$PROJECT_DIR$/Model/build.gradle" value="2019717164" />
+        <entry key="$PROJECT_DIR$/Persistance/build.gradle" value="3159967929" />
+        <entry key="$PROJECT_DIR$/Server/build.gradle" value="3627882389" />
+        <entry key="$PROJECT_DIR$/Services/build.gradle" value="2383436166" />
+        <entry key="$PROJECT_DIR$/Validator/build.gradle" value="624243015" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="4241135040" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1676574795" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/Client">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Client" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/Model">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Model" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/Persistance">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Persistance" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/Server">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Server" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/Services">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Services" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/Validator">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Validator" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="labServer" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-junit-platform" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Persistance/src/main/java/repo/RepoUser.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/Services/src/main/java/IObserver.java" />
+        <option value="$PROJECT_DIR$/Server/src/main/resources/bd.properties" />
+        <option value="$PROJECT_DIR$/Server/src/main/resources/server.properties" />
+        <option value="$PROJECT_DIR$/Model/build.gradle" />
+        <option value="$PROJECT_DIR$/Persistance/build.gradle" />
+        <option value="$PROJECT_DIR$/Client/src/main/resources/bd.properties" />
+        <option value="$PROJECT_DIR$/Client/src/main/resources/server.properties" />
+        <option value="$PROJECT_DIR$/Client/build.gradle" />
+        <option value="$PROJECT_DIR$/Validator/src/main/java/validator/ProdusValidation.java" />
+        <option value="$PROJECT_DIR$/Validator/src/main/java/UserValidator.java" />
+        <option value="$PROJECT_DIR$/Validator/build.gradle" />
+        <option value="$PROJECT_DIR$/Validator/src/main/java/validator/UserValidator.java" />
+        <option value="$PROJECT_DIR$/Server/build.gradle" />
+        <option value="$PROJECT_DIR$/Server/src/main/resources/spring-server.xml" />
+        <option value="$PROJECT_DIR$/Services/build.gradle" />
+        <option value="$PROJECT_DIR$/Services/src/main/java/IServer.java" />
+        <option value="$PROJECT_DIR$/Client/src/main/java/StartObjectClient.java" />
+        <option value="$PROJECT_DIR$/Persistance/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/Model/src/main/java/model/Produs.java" />
+        <option value="$PROJECT_DIR$/Model/src/main/java/model/User.java" />
+        <option value="$PROJECT_DIR$/Client/src/main/java/ControllerLogin.java" />
+        <option value="$PROJECT_DIR$/Client/src/main/java/ControllerAgent.java" />
+        <option value="$PROJECT_DIR$/Client/src/main/java/ControllerRegister.java" />
+        <option value="$PROJECT_DIR$/Client/src/main/java/ControllerAdmin.java" />
+        <option value="$PROJECT_DIR$/Server/src/main/java/StartObjectServer.java" />
+        <option value="$PROJECT_DIR$/Server/src/main/java/Server.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="labServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572823241373" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\an2\iss\server\Validator\src\main\java" />
+      <recent name="D:\an2\iss\server\Client\src\main\java" />
+      <recent name="D:\an2\iss\server\Persistance\src\main\resources" />
+      <recent name="D:\an2\iss\server\Client\src\main\resources" />
+      <recent name="D:\an2\iss\server\Services\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartObjectClient">
+    <configuration name="StartObjectClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartObjectClient" />
+      <module name="Client_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartObjectServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartObjectServer" />
+      <module name="Server_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartObjectServer" />
+      <item itemvalue="Application.StartObjectClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartObjectClient" />
+        <item itemvalue="Application.StartObjectServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="846ebec2-c5b0-4912-acd6-60c6bb536abd" name="Default Changelist" comment="" />
+      <created>1559758365411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559758365411</updated>
+      <workItem from="1559758369903" duration="11107000" />
+      <workItem from="1559774235135" duration="7578000" />
+      <workItem from="1559816850826" duration="12000" />
+      <workItem from="1560757382998" duration="9060000" />
+      <workItem from="1561478188469" duration="111000" />
+      <workItem from="1562321315426" duration="77000" />
+      <workItem from="1572793025157" duration="2158000" />
+      <workItem from="1572889688235" duration="14000" />
+      <workItem from="1573997910238" duration="491000" />
+      <workItem from="1574289382366" duration="132000" />
+      <workItem from="1574976495340" duration="10000" />
+      <workItem from="1575382686336" duration="637000" />
+      <workItem from="1592379330007" duration="1115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32502000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23892617" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Persistence" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09787234" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.053900708" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="7" weight="0.5866852" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit all" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Server/src/main/java/Server.java</url>
+          <line>112</line>
+          <properties class="Server" method="notify">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Server/src/main/java/Server.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Client/src/main/java/ControllerAgent.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Client/src/main/java/ControllerAgent.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistance/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/src/main/resources/bd.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/src/main/resources/spring.xml" />
+    <entry file="file://$PROJECT_DIR$/Client/src/main/resources/client.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Validator/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Validator/src/main/java/validator/Validator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Validator/src/main/java/validator/ValidationException.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Validator/src/main/java/validator/ProdusValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Validator/src/main/java/validator/UserValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Services/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://8e2b8d02-9fc9-4024-bdd1-fb934e2b61bd/schema/main/table/produs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8e2b8d02-9fc9-4024-bdd1-fb934e2b61bd/console.sql" />
+    <entry file="file://$PROJECT_DIR$/Persistance/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistance/src/main/java/repo/RepoProdus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/TextInputControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="356" column="35" selection-start-line="356" selection-start-column="35" selection-end-line="356" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/src/main/java/model/Produs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/an2/iss/server/Client/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/Client/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="640.0" y="327.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">Server</node>
+            <node x="" y="">antlr.DefaultFileLineFormatter</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRParser</node>
+            <node x="" y="">antlr.TokenManager</node>
+            <node x="" y="">java.time</node>
+            <node x="" y="">org.springframework</node>
+            <node x="" y="">javassist.runtime</node>
+            <node x="" y="">antlr.CSharpNameSpace</node>
+            <node x="" y="">antlr.GrammarElement</node>
+            <node x="" y="">groovyjarjarantlr.PreservingFileWriter</node>
+            <node x="" y="">antlr.TokenStreamException</node>
+            <node x="" y="">antlr.TokenStreamRewriteEngine.DeleteOp</node>
+            <node x="" y="">groovyjarjarantlr.MismatchedCharException</node>
+            <node x="" y="">org.omg</node>
+            <node x="" y="">antlr.AlternativeElement</node>
+            <node x="" y="">groovyjarjarcommonscli.TypeHandler</node>
+            <node x="" y="">META-INF.providers</node>
+            <node x="" y="">javassist.CodeConverter</node>
+            <node x="" y="">javassist.Modifier</node>
+            <node x="" y="">javassist.ClassMap</node>
+            <node x="" y="">antlr.LLkGrammarAnalyzer</node>
+            <node x="" y="">groovyjarjarantlr.CommonToken</node>
+            <node x="" y="">groovyjarjarantlr.StringLiteralElement</node>
+            <node x="" y="">groovyjarjarantlr.PythonCodeGenerator</node>
+            <node x="" y="">groovyjarjarantlr.ASTIterator</node>
+            <node x="" y="">javafx.print</node>
+            <node x="" y="">antlr.build</node>
+            <node x="" y="">antlr.ANTLRHashString</node>
+            <node x="" y="">junit.framework</node>
+            <node x="" y="">antlr.ZeroOrMoreBlock</node>
+            <node x="" y="">antlr.RuleBlock</node>
+            <node x="" y="">groovyjarjarantlr.CharScanner</node>
+            <node x="" y="">antlr.debug</node>
+            <node x="" y="">groovyjarjarantlr.CharStreamIOException</node>
+            <node x="" y="">antlr.JavaCharFormatter</node>
+            <node x="" y="">antlr.Token</node>
+            <node x="" y="">antlr.ASTFactory</node>
+            <node x="" y="">antlr.TokenStreamRecognitionException</node>
+            <node x="" y="">sun.launcher</node>
+            <node x="" y="">javassist.CtNewMethod</node>
+            <node x="" y="">org.jcp</node>
+            <node x="" y="">antlr.CSharpCodeGenerator</node>
+            <node x="" y="">java.math</node>
+            <node x="" y="">antlr.MismatchedTokenException</node>
+            <node x="" y="">toolbarButtonGraphics.general</node>
+            <node x="" y="">images.toolbarButtonGraphics</node>
+            <node x="" y="">antlr.OneOrMoreBlock</node>
+            <node x="" y="">groovyjarjarantlr.actions</node>
+            <node x="" y="">antlr.LexerGrammar</node>
+            <node x="" y="">groovyjarjarantlr.GrammarAtom</node>
+            <node x="" y="">java.awt</node>
+            <node x="" y="">antlr.TokenStreamSelector</node>
+            <node x="" y="">junit.runner</node>
+            <node x="" y="">jdk.internal</node>
+            <node x="" y="">org.junit</node>
+            <node x="" y="">org.hamcrest</node>
+            <node x="" y="">groovyjarjarantlr.DefineGrammarSymbols</node>
+            <node x="" y="">sun.swing</node>
+            <node x="" y="">antlr.DocBookCodeGenerator</node>
+            <node x="" y="">antlr.WildcardElement</node>
+            <node x="" y="">javassist.Translator</node>
+            <node x="" y="">antlr.ParserGrammar</node>
+            <node x="" y="">groovyjarjarantlr.StringLiteralSymbol</node>
+            <node x="" y="">javassist.CtNewWrappedConstructor</node>
+            <node x="" y="">repo.RepoUser</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamIOException</node>
+            <node x="" y="">javax.sql</node>
+            <node x="" y="">groovyjarjarantlr.PythonCharFormatter</node>
+            <node x="" y="">javassist.CtMember.Cache</node>
+            <node x="" y="">antlr.RecognitionException</node>
+            <node x="" y="">javassist.compiler</node>
+            <node x="" y="">javassist.NotFoundException</node>
+            <node x="" y="">javassist.CtMethod.LongConstParameter</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamRewriteEngine</node>
+            <node x="" y="">validator.UserValidator</node>
+            <node x="" y="">groovy.xml</node>
+            <node x="" y="">jdk.javadoc</node>
+            <node x="" y="">groovyjarjarantlr.TokenSymbol</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRTokdefParserTokenTypes</node>
+            <node x="" y="">javassist.CtClassType</node>
+            <node x="" y="">com.oracle</node>
+            <node x="" y="">groovyjarjarantlr.collections</node>
+            <node x="" y="">groovyjarjarantlr.HTMLCodeGenerator</node>
+            <node x="" y="">antlr.CharLiteralElement</node>
+            <node x="" y="">javafx.application</node>
+            <node x="" y="">antlr.CharStreamIOException</node>
+            <node x="" y="">antlr.ANTLRTokdefParser</node>
+            <node x="" y="">antlr.ASTNULLType</node>
+            <node x="" y="">groovyjarjarcommonscli.OptionGroup</node>
+            <node x="" y="">javafx.fxml</node>
+            <node x="" y="">javassist.CtBehavior</node>
+            <node x="" y="">javax.net</node>
+            <node x="" y="">sun.plugin</node>
+            <node x="" y="">groovyjarjarcommonscli.MissingArgumentException</node>
+            <node x="" y="">org.apache</node>
+            <node x="" y="">groovy.security</node>
+            <node x="" y="">javassist.CtPrimitiveType</node>
+            <node x="" y="">antlr.Version</node>
+            <node x="" y="">antlr.Tool</node>
+            <node x="" y="">groovyjarjarantlr.LexerGrammar</node>
+            <node x="" y="">javax.smartcardio</node>
+            <node x="" y="">sun.jvm</node>
+            <node x="" y="">javax.security</node>
+            <node x="" y="">groovyjarjarantlr.StringUtils</node>
+            <node x="" y="">javax.rmi</node>
+            <node x="" y="">javax.naming</node>
+            <node x="" y="">antlr.SemanticException</node>
+            <node x="" y="">antlr.TokenStreamRewriteEngine</node>
+            <node x="" y="">groovyjarjarantlr.DiagnosticCodeGenerator</node>
+            <node x="" y="">javassist.CtField.StringInitializer</node>
+            <node x="" y="">javassist.CodeConverter.DefaultArrayAccessReplacementMethodNames</node>
+            <node x="" y="">com.sun</node>
+            <node x="" y="">javassist.CtNewWrappedMethod</node>
+            <node x="" y="">antlr.CommonAST</node>
+            <node x="" y="">groovyjarjarantlr.TreeElement</node>
+            <node x="" y="">groovyjarjarantlr.NameSpace</node>
+            <node x="" y="">javax.sound</node>
+            <node x="" y="">antlr.AlternativeBlock</node>
+            <node x="" y="">antlr.JavaCodeGenerator</node>
+            <node x="" y="">antlr.ANTLRTokdefLexer</node>
+            <node x="" y="">jdk.xml</node>
+            <node x="" y="">groovyjarjarantlr.CharBuffer</node>
+            <node x="" y="">antlr.DefaultToolErrorHandler</node>
+            <node x="" y="">groovyjarjarantlr.NoViableAltForCharException</node>
+            <node x="" y="">antlr.ANTLRLexer</node>
+            <node x="" y="">groovyjarjarantlr.BaseAST</node>
+            <node x="" y="">groovyjarjarantlr.ImportVocabTokenManager</node>
+            <node x="" y="">groovy.time</node>
+            <node x="" y="">groovyjarjarcommonscli.OptionBuilder</node>
+            <node x="" y="">sun.print</node>
+            <node x="" y="">groovyjarjarantlr.TreeWalkerGrammar</node>
+            <node x="" y="">antlr.CharFormatter</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRHashString</node>
+            <node x="" y="">groovyjarjarantlr.CSharpNameSpace</node>
+            <node x="" y="">antlr.NameSpace</node>
+            <node x="" y="">groovyjarjarantlr.ParseTreeToken</node>
+            <node x="" y="">java.nio</node>
+            <node x="" y="">groovyjarjarantlr.ZeroOrMoreBlock</node>
+            <node x="" y="">antlr.PythonBlockFinishingInfo</node>
+            <node x="" y="">groovyjarjarcommonscli.HelpFormatter</node>
+            <node x="" y="">antlr.RuleSymbol</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRTokdefParser</node>
+            <node x="" y="">animatefx.util</node>
+            <node x="" y="">META-INF.services</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamHiddenTokenFilter</node>
+            <node x="" y="">groovyjarjarantlr.CSharpBlockFinishingInfo</node>
+            <node x="" y="">groovyjarjarcommonscli.GroovyInternalPosixParser</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamRewriteEngine.ReplaceOp</node>
+            <node x="" y="">model.User</node>
+            <node x="" y="">antlr.ParseTree</node>
+            <node x="" y="">groovy.inspect</node>
+            <node x="" y="">antlr.ANTLRStringBuffer</node>
+            <node x="" y="">java.lang</node>
+            <node x="" y="">groovyjarjarantlr.GrammarSymbol</node>
+            <node x="" y="">antlr.Grammar</node>
+            <node x="" y="">antlr.Alternative</node>
+            <node x="" y="">groovyjarjarcommonscli.AlreadySelectedException</node>
+            <node x="" y="">groovyjarjarantlr.CharQueue</node>
+            <node x="" y="">java.sql</node>
+            <node x="" y="">groovyjarjarantlr.TokenQueue</node>
+            <node x="" y="">groovyjarjarantlr.SemanticException</node>
+            <node x="" y="">groovyjarjarantlr.FileLineFormatter</node>
+            <node x="" y="">groovyjarjarantlr.ByteBuffer</node>
+            <node x="" y="">antlr.FileLineFormatter</node>
+            <node x="" y="">groovyjarjarcommonscli.Option</node>
+            <node x="" y="">jdk.nashorn</node>
+            <node x="" y="">groovyjarjarantlr.CharLiteralElement</node>
+            <node x="" y="">groovyjarjarantlr.WildcardElement</node>
+            <node x="" y="">javassist.SerialVersionUID</node>
+            <node x="" y="">groovyjarjarantlr.Tool</node>
+            <node x="" y="">javassist.CtField.DoubleInitializer</node>
+            <node x="" y="">groovyjarjarantlr.ActionElement</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamRewriteEngine.RewriteOperation</node>
+            <node x="" y="">groovyjarjarcommonscli.CommandLine</node>
+            <node x="" y="">javassist.CtNewConstructor</node>
+            <node x="" y="">groovyjarjarcommonscli.OptionValidator</node>
+            <node x="" y="">groovyjarjarcommonscli.BasicParser</node>
+            <node x="" y="">javassist.LoaderClassPath</node>
+            <node x="" y="">sun.security</node>
+            <node x="" y="">sun.awt</node>
+            <node x="" y="">javassist.CtMethod.IntConstParameter</node>
+            <node x="" y="">antlr.TokenStreamRewriteEngine.RewriteOperation</node>
+            <node x="" y="">antlr.TokenStreamRewriteEngine.InsertBeforeOp</node>
+            <node x="" y="">groovyjarjarantlr.CSharpCharFormatter</node>
+            <node x="" y="">antlr.ASdebug</node>
+            <node x="" y="">javassist.CtField.FloatInitializer</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamBasicFilter</node>
+            <node x="" y="">antlr.preprocessor</node>
+            <node x="" y="">antlr.ToolErrorHandler</node>
+            <node x="" y="">groovy.sql</node>
+            <node x="" y="">groovyjarjarantlr.JavaCodeGeneratorPrintWriterManager</node>
+            <node x="" y="">ServerEx</node>
+            <node x="" y="">groovyjarjarantlr.ExceptionHandler</node>
+            <node x="" y="">sun.management</node>
+            <node x="" y="">javassist.CtMethod</node>
+            <node x="" y="">javassist.CtField.MultiArrayInitializer</node>
+            <node x="" y="">jdk.tools</node>
+            <node x="" y="">antlr.TreeParser</node>
+            <node x="" y="">groovyjarjarantlr.TokenBuffer</node>
+            <node x="" y="">toolbarButtonGraphics.development</node>
+            <node x="" y="">javax.accessibility</node>
+            <node x="" y="">antlr.CharBuffer</node>
+            <node x="" y="">javafx.css</node>
+            <node x="" y="">groovyjarjarantlr.PythonBlockFinishingInfo</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamSelector</node>
+            <node x="" y="">antlr.LexerSharedInputState</node>
+            <node x="" y="">sun.corba</node>
+            <node x="" y="">groovyjarjarantlr.RuleRefElement</node>
+            <node x="" y="">groovyjarjarantlr.CommonHiddenStreamToken</node>
+            <node x="" y="">javassist.CtField.CodeInitializer0</node>
+            <node x="" y="">toolbarButtonGraphics.text</node>
+            <node x="" y="">groovyjarjarantlr.ParseTreeRule</node>
+            <node x="" y="">javassist.CtField.MethodInitializer</node>
+            <node x="" y="">antlr.RuleRefElement</node>
+            <node x="" y="">javassist.Loader</node>
+            <node x="" y="">oracle.jvm</node>
+            <node x="" y="">javafx.stage</node>
+            <node x="" y="">antlr.CommonToken</node>
+            <node x="" y="">groovyjarjarantlr.CppCodeGenerator</node>
+            <node x="" y="">groovyjarjarantlr.CharStreamException</node>
+            <node x="" y="">groovyjarjarantlr.DumpASTVisitor</node>
+            <node x="" y="">groovy.ui</node>
+            <node x="" y="">antlr.SynPredBlock</node>
+            <node x="" y="">javassist.CtMethod.StringConstParameter</node>
+            <node x="" y="">antlr.CodeGenerator</node>
+            <node x="" y="">groovy.grape</node>
+            <node x="" y="">groovy.util</node>
+            <node x="" y="">antlr.MakeGrammar</node>
+            <node x="" y="">jdk.vm</node>
+            <node x="" y="">groovyjarjarantlr.preprocessor</node>
+            <node x="" y="">sun.reflect</node>
+            <node x="" y="">groovyjarjarantlr.LexerSharedInputState</node>
+            <node x="" y="">javassist.CtField.ParamInitializer</node>
+            <node x="" y="">groovyjarjarantlr.Parser</node>
+            <node x="" y="">groovyjarjarantlr.AlternativeBlock</node>
+            <node x="" y="">antlr.DefineGrammarSymbols</node>
+            <node x="" y="">javassist.CtField.Initializer</node>
+            <node x="" y="">antlr.CSharpBlockFinishingInfo</node>
+            <node x="" y="">antlr.DumpASTVisitor</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRTokdefLexer</node>
+            <node x="" y="">groovyjarjarantlr.DefaultJavaCodeGeneratorPrintWriterManager</node>
+            <node x="" y="">javassist.JarDirClassPath</node>
+            <node x="" y="">antlr.CommonHiddenStreamToken</node>
+            <node x="" y="">IServer</node>
+            <node x="" y="">javax.management</node>
+            <node x="" y="">javassist.expr</node>
+            <node x="" y="">javax.script</node>
+            <node x="" y="">jdk.management</node>
+            <node x="" y="">javassist.FieldInitLink</node>
+            <node x="" y="">antlr.ParserSharedInputState</node>
+            <node x="" y="">groovyjarjarcommonscli.Parser</node>
+            <node x="" y="">validator.ValidationException</node>
+            <node x="" y="">antlr.PrintWriterWithSMAP</node>
+            <node x="" y="">animatefx.animation</node>
+            <node x="" y="">antlr.actions</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRLexer</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamException</node>
+            <node x="" y="">ControllerAdmin.CustomIntegerStringConverter</node>
+            <node x="" y="">java.applet</node>
+            <node x="" y="">jdk.incubator</node>
+            <node x="" y="">groovyjarjarantlr.LLkGrammarAnalyzer</node>
+            <node x="" y="">javassist.CtClass</node>
+            <node x="" y="">antlr.TokenStreamRetryException</node>
+            <node x="" y="">antlr.PythonCodeGenerator</node>
+            <node x="" y="">org.xml</node>
+            <node x="" y="">antlr.collections</node>
+            <node x="" y="">IObserver</node>
+            <node x="" y="">groovyjarjarantlr.ASTFactory</node>
+            <node x="" y="">groovyjarjarantlr.ParserSharedInputState</node>
+            <node x="" y="">jdk.editpad</node>
+            <node x="" y="">javax.imageio</node>
+            <node x="" y="">javafx.concurrent</node>
+            <node x="" y="">javassist.ClassPathList</node>
+            <node x="" y="">antlr.TreeParserSharedInputState</node>
+            <node x="" y="">groovy.test</node>
+            <node x="" y="">groovyjarjarantlr.InputBuffer</node>
+            <node x="" y="">groovyjarjarantlr.ParseTree</node>
+            <node x="" y="">groovyjarjarantlr.TokenStream</node>
+            <node x="" y="">antlr.BlockEndElement</node>
+            <node x="" y="">groovyjarjarantlr.debug</node>
+            <node x="" y="">javafx.scene</node>
+            <node x="" y="">groovyjarjarantlr.SimpleTokenManager</node>
+            <node x="" y="">jdk.dynalink</node>
+            <node x="" y="">javassist.ClassPoolTail</node>
+            <node x="" y="">javax.transaction</node>
+            <node x="" y="">groovyjarjarantlr.ASTNULLType</node>
+            <node x="" y="">antlr.ParseTreeToken</node>
+            <node x="" y="">antlr.CommonASTWithHiddenTokens</node>
+            <node x="" y="">groovyjarjarantlr.SynPredBlock</node>
+            <node x="" y="">javax.xml</node>
+            <node x="" y="">javax.persistence</node>
+            <node x="" y="">groovyjarjarantlr.build</node>
+            <node x="" y="">javassist.tools</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamRecognitionException</node>
+            <node x="" y="">sun.nio</node>
+            <node x="" y="">jdk.jfr</node>
+            <node x="" y="">groovyjarjarcommonscli.CommandLineParser</node>
+            <node x="" y="">groovyjarjarantlr.JavaCharFormatter</node>
+            <node x="" y="">javassist.bytecode</node>
+            <node x="" y="">antlr.MismatchedCharException</node>
+            <node x="" y="">groovyjarjarcommonscli.PosixParser</node>
+            <node x="" y="">org.jboss</node>
+            <node x="" y="">StartObjectClient</node>
+            <node x="" y="">sun.text</node>
+            <node x="" y="">antlr.ExceptionSpec</node>
+            <node x="" y="">antlr.TokenStreamRewriteEngine.ReplaceOp</node>
+            <node x="" y="">antlr.TreeElement</node>
+            <node x="" y="">javassist.convert</node>
+            <node x="" y="">model.Produs</node>
+            <node x="" y="">groovy.swing</node>
+            <node x="" y="">antlr.CharStreamException</node>
+            <node x="" y="">org.graalvm</node>
+            <node x="" y="">groovy.beans</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRStringBuffer</node>
+            <node x="" y="">jdk.security</node>
+            <node x="" y="">sun.plugin2</node>
+            <node x="" y="">groovy.model</node>
+            <node x="" y="">java.text</node>
+            <node x="" y="">antlr.GrammarAnalyzer</node>
+            <node x="" y="">groovyjarjarantlr.RuleEndElement</node>
+            <node x="" y="">sun.applet</node>
+            <node x="" y="">javassist.CtClass.DelayedFileOutputStream</node>
+            <node x="" y="">javax.print</node>
+            <node x="" y="">groovyjarjarantlr.ToolErrorHandler</node>
+            <node x="" y="">antlr.BaseAST</node>
+            <node x="" y="">javassist.CtField.IntInitializer</node>
+            <node x="" y="">groovyjarjarantlr.TreeParserSharedInputState</node>
+            <node x="" y="">java.rmi</node>
+            <node x="" y="">javassist.CtNewClass</node>
+            <node x="" y="">groovyjarjarantlr.ASdebug</node>
+            <node x="" y="">java.beans</node>
+            <node x="" y="">org.hibernate</node>
+            <node x="" y="">groovyjarjarantlr.DefaultToolErrorHandler</node>
+            <node x="" y="">antlr.ANTLRTokenTypes</node>
+            <node x="" y="">org.codehaus</node>
+            <node x="" y="">groovyjarjarantlr.Grammar</node>
+            <node x="" y="">groovyjarjarantlr.CharFormatter</node>
+            <node x="" y="">antlr.ANTLRParser</node>
+            <node x="" y="">groovy.json</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRError</node>
+            <node x="" y="">java.net</node>
+            <node x="" y="">antlr.LLkAnalyzer</node>
+            <node x="" y="">antlr.TreeWalkerGrammar</node>
+            <node x="" y="">javax.lang</node>
+            <node x="" y="">javassist.CtConstructor</node>
+            <node x="" y="">groovyjarjarantlr.TokenWithIndex</node>
+            <node x="" y="">groovyjarjarantlr.FileCopyException</node>
+            <node x="" y="">javassist.scopedpool</node>
+            <node x="" y="">antlr.PythonCharFormatter</node>
+            <node x="" y="">sun.misc</node>
+            <node x="" y="">groovyjarjarantlr.Token</node>
+            <node x="" y="">antlr.StringLiteralSymbol</node>
+            <node x="" y="">javafx.util</node>
+            <node x="" y="">groovyjarjarantlr.Version</node>
+            <node x="" y="">antlr.CharQueue</node>
+            <node x="" y="">javassist.ClassPath</node>
+            <node x="" y="">javassist.CtField.ArrayInitializer</node>
+            <node x="" y="">antlr.DiagnosticCodeGenerator</node>
+            <node x="" y="">groovyjarjarcommonscli.MissingOptionException</node>
+            <node x="" y="">javassist.CtField</node>
+            <node x="" y="">antlr.BlockWithImpliedExitPath</node>
+            <node x="" y="">ControllerLogin</node>
+            <node x="" y="">antlr.CppCodeGenerator</node>
+            <node x="" y="">com.fasterxml</node>
+            <node x="" y="">javassist.ClassPool</node>
+            <node x="" y="">groovyjarjarantlr.AlternativeElement</node>
+            <node x="" y="">StartObjectServer</node>
+            <node x="" y="">groovy.io</node>
+            <node x="" y="">antlr.ASTVisitor</node>
+            <node x="" y="">groovy.transform</node>
+            <node x="" y="">javafx.animation</node>
+            <node x="" y="">groovyjarjarantlr.TreeBlockContext</node>
+            <node x="" y="">antlr.Lookahead</node>
+            <node x="" y="">groovyjarjarantlr.CSharpCodeGenerator</node>
+            <node x="" y="">groovy.servlet</node>
+            <node x="" y="">javafx.geometry</node>
+            <node x="" y="">antlr.ActionTransInfo</node>
+            <node x="" y="">antlr.ActionElement</node>
+            <node x="" y="">antlr.CharRangeElement</node>
+            <node x="" y="">antlr.ASTIterator</node>
+            <node x="" y="">groovyjarjarantlr.LLkAnalyzer</node>
+            <node x="" y="">antlr.DefaultJavaCodeGeneratorPrintWriterManager</node>
+            <node x="" y="">javassist.ByteArrayClassPath</node>
+            <node x="" y="">javassist.CtMethod.ConstParameter</node>
+            <node x="" y="">antlr.TokenWithIndex</node>
+            <node x="" y="">antlr.TokenRefElement</node>
+            <node x="" y="">repo.RepoProdus</node>
+            <node x="" y="">javassist.CannotCompileException</node>
+            <node x="" y="">jdk.nio</node>
+            <node x="" y="">javassist.DirClassPath</node>
+            <node x="" y="">sun.io</node>
+            <node x="" y="">groovyjarjarantlr.ASTPair</node>
+            <node x="" y="">groovyjarjarasm.asm</node>
+            <node x="" y="">antlr.HTMLCodeGenerator</node>
+            <node x="" y="">groovyjarjarantlr.ParserGrammar</node>
+            <node x="" y="">groovyjarjarantlr.CppCharFormatter</node>
+            <node x="" y="">javassist.CtField.CodeInitializer</node>
+            <node x="" y="">groovyjarjarantlr.Lookahead</node>
+            <node x="" y="">groovyjarjarantlr.CommonASTWithHiddenTokens</node>
+            <node x="" y="">groovyjarjarantlr.BlockWithImpliedExitPath</node>
+            <node x="" y="">javassist.CtField.NewInitializer</node>
+            <node x="" y="">javax.jnlp</node>
+            <node x="" y="">org.ietf</node>
+            <node x="" y="">antlr.TokenStreamHiddenTokenFilter</node>
+            <node x="" y="">javax.swing</node>
+            <node x="" y="">antlr.FileCopyException</node>
+            <node x="" y="">groovyjarjarantlr.BlockEndElement</node>
+            <node x="" y="">groovyjarjarantlr.CommonAST</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamRetryException</node>
+            <node x="" y="">groovyjarjarantlr.TokenRangeElement</node>
+            <node x="" y="">sun.tools</node>
+            <node x="" y="">javassist.CtArray</node>
+            <node x="" y="">groovyjarjarcommonscli.Options</node>
+            <node x="" y="">antlr.CSharpCharFormatter</node>
+            <node x="" y="">antlr.TokenSymbol</node>
+            <node x="" y="">groovyjarjarantlr.TokenManager</node>
+            <node x="" y="">antlr.StringUtils</node>
+            <node x="" y="">model.HibernateUtils</node>
+            <node x="" y="">groovyjarjarantlr.DocBookCodeGenerator</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamRewriteEngine.InsertBeforeOp</node>
+            <node x="" y="">javax.activation</node>
+            <node x="" y="">antlr.ExceptionHandler</node>
+            <node x="" y="">groovyjarjarantlr.JavaBlockFinishingInfo</node>
+            <node x="" y="">java.security</node>
+            <node x="" y="">groovy.jmx</node>
+            <node x="" y="">sun.java2d</node>
+            <node x="" y="">org.w3c</node>
+            <node x="" y="">jdk.jshell</node>
+            <node x="" y="">org.dom4j</node>
+            <node x="" y="">groovyjarjarantlr.RuleBlock</node>
+            <node x="" y="">groovyjarjarantlr.Utils</node>
+            <node x="" y="">groovyjarjarantlr.CodeGenerator</node>
+            <node x="" y="">META-INF.licenses</node>
+            <node x="" y="">groovyjarjarantlr.TreeParser</node>
+            <node x="" y="">antlr.Utils</node>
+            <node x="" y="">antlr.ParseTreeRule</node>
+            <node x="" y="">antlr.RuleEndElement</node>
+            <node x="" y="">groovy.mock</node>
+            <node x="" y="">antlr.PreservingFileWriter</node>
+            <node x="" y="">groovyjarjarantlr.PrintWriterWithSMAP</node>
+            <node x="" y="">antlr.TokenQueue</node>
+            <node x="" y="">javafx.embed</node>
+            <node x="" y="">groovyjarjarantlr.OneOrMoreBlock</node>
+            <node x="" y="">antlr.TokenStream</node>
+            <node x="" y="">javax.crypto</node>
+            <node x="" y="">antlr.TreeSpecifierNode</node>
+            <node x="" y="">java.util</node>
+            <node x="" y="">javafx.collections</node>
+            <node x="" y="">javassist.CtMember</node>
+            <node x="" y="">javafx.event</node>
+            <node x="" y="">groovyjarjarcommonscli.ParseException</node>
+            <node x="" y="">antlr.ImportVocabTokenManager</node>
+            <node x="" y="">groovy.text</node>
+            <node x="" y="">jdk.net</node>
+            <node x="" y="">junit.textui</node>
+            <node x="" y="">groovyjarjarantlr.NoViableAltException</node>
+            <node x="" y="">javassist.CtField.PtreeInitializer</node>
+            <node x="" y="">antlr.GrammarSymbol</node>
+            <node x="" y="">groovyjarjarantlr.MismatchedTokenException</node>
+            <node x="" y="">antlr.TokenStreamIOException</node>
+            <node x="" y="">groovyjarjarantlr.ActionTransInfo</node>
+            <node x="" y="">META-INF.maven</node>
+            <node x="" y="">validator.Validator</node>
+            <node x="" y="">junit.extensions</node>
+            <node x="" y="">ControllerRegister</node>
+            <node x="" y="">groovyjarjarantlr.JavaCodeGenerator</node>
+            <node x="" y="">jdk.packager</node>
+            <node x="" y="">groovyjarjarantlr.BlockContext</node>
+            <node x="" y="">antlr.StringLiteralElement</node>
+            <node x="" y="">antlr.TokenStreamBasicFilter</node>
+            <node x="" y="">antlr.ANTLRError</node>
+            <node x="" y="">javax.activity</node>
+            <node x="" y="">groovyjarjarantlr.RuleSymbol</node>
+            <node x="" y="">antlr.TokenRangeElement</node>
+            <node x="" y="">antlr.TokenBuffer</node>
+            <node x="" y="">antlr.ASTPair</node>
+            <node x="" y="">sun.font</node>
+            <node x="" y="">javafx.beans</node>
+            <node x="" y="">org.aopalliance</node>
+            <node x="" y="">javassist.ClassClassPath</node>
+            <node x="" y="">javassist.CtNewNestedClass</node>
+            <node x="" y="">antlr.ByteBuffer</node>
+            <node x="" y="">groovyjarjarantlr.GrammarAnalyzer</node>
+            <node x="" y="">groovyjarjarantlr.ASTVisitor</node>
+            <node x="" y="">sun.invoke</node>
+            <node x="" y="">javax.annotation</node>
+            <node x="" y="">javax.jws</node>
+            <node x="" y="">groovy.lang</node>
+            <node x="" y="">antlr.NoViableAltForCharException</node>
+            <node x="" y="">toolbarButtonGraphics.navigation</node>
+            <node x="" y="">antlr.GrammarAtom</node>
+            <node x="" y="">antlr.ANTLRTokdefParserTokenTypes</node>
+            <node x="" y="">org.sqlite</node>
+            <node x="" y="">groovyjarjarantlr.TokenRefElement</node>
+            <node x="" y="">javassist.CtField.LongInitializer</node>
+            <node x="" y="">groovyjarjarantlr.Alternative</node>
+            <node x="" y="">sun.util</node>
+            <node x="" y="">groovyjarjarcommonscli.HelpFormatter.OptionComparator</node>
+            <node x="" y="">groovyjarjarantlr.MakeGrammar</node>
+            <node x="" y="">antlr.SimpleTokenManager</node>
+            <node x="" y="">antlr.InputBuffer</node>
+            <node x="" y="">sun.datatransfer</node>
+            <node x="" y="">antlr.CharScanner</node>
+            <node x="" y="">groovyjarjarcommonscli.GnuParser</node>
+            <node x="" y="">javassist.CodeConverter.ArrayAccessReplacementMethodNames</node>
+            <node x="" y="">ControllerAgent</node>
+            <node x="" y="">META-INF.org</node>
+            <node x="" y="">javassist.JarClassPath</node>
+            <node x="" y="">javassist.URLClassPath</node>
+            <node x="" y="">groovyjarjarantlr.RecognitionException</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRException</node>
+            <node x="" y="">sun.jvmstat</node>
+            <node x="" y="">antlr.ANTLRException</node>
+            <node x="" y="">sun.net</node>
+            <node x="" y="">antlr.BlockContext</node>
+            <node x="" y="">groovyjarjarantlr.ExceptionSpec</node>
+            <node x="" y="">groovyjarjarantlr.TreeSpecifierNode</node>
+            <node x="" y="">groovyjarjarantlr.CharRangeElement</node>
+            <node x="" y="">antlr.Parser</node>
+            <node x="" y="">javassist.util</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRGrammarParseBehavior</node>
+            <node x="" y="">sun.rmi</node>
+            <node x="" y="">antlr.LLkParser</node>
+            <node x="" y="">sun.instrument</node>
+            <node x="" y="">groovyjarjarcommonscli.UnrecognizedOptionException</node>
+            <node x="" y="">groovyjarjarantlr.GrammarElement</node>
+            <node x="" y="">netscape.javascript</node>
+            <node x="" y="">groovyjarjarcommonscli.PatternOptionBuilder</node>
+            <node x="" y="">antlr.CppBlockFinishingInfo</node>
+            <node x="" y="">antlr.TreeBlockContext</node>
+            <node x="" y="">ControllerAdmin</node>
+            <node x="" y="">javax.tools</node>
+            <node x="" y="">antlr.JavaBlockFinishingInfo</node>
+            <node x="" y="">antlr.ANTLRGrammarParseBehavior</node>
+            <node x="" y="">groovyjarjarantlr.DefaultFileLineFormatter</node>
+            <node x="" y="">antlr.JavaCodeGeneratorPrintWriterManager</node>
+            <node x="" y="">validator.ProdusValidation</node>
+            <node x="" y="">groovyjarjarantlr.LLkParser</node>
+            <node x="" y="">antlr.NoViableAltException</node>
+            <node x="" y="">java.io</node>
+            <node x="" y="">antlr.CppCharFormatter</node>
+            <node x="" y="">groovyjarjarantlr.ANTLRTokenTypes</node>
+            <node x="" y="">groovyjarjarcommonscli.Util</node>
+            <node x="" y="">groovyjarjarantlr.CppBlockFinishingInfo</node>
+            <node x="" y="">groovyjarjarantlr.TokenStreamRewriteEngine.DeleteOp</node>
+            <node x="" y="">sun.usagetracker</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.1" x="6375.0" y="14190.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/src/main/java/ControllerAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1168">
+          <caret line="143" column="13" lean-forward="true" selection-start-line="143" selection-start-column="13" selection-end-line="143" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/src/main/java/ControllerRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://8e2b8d02-9fc9-4024-bdd1-fb934e2b61bd/schema/main/table/user" />
+    <entry file="file://$PROJECT_DIR$/Model/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/src/main/java/model/HibernateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistance/src/main/java/repo/RepoUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/src/main/resources/fvd.xml" />
+    <entry file="file://$PROJECT_DIR$/Server/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistance/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="62" lean-forward="true" selection-start-line="33" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Services/src/main/java/ServerEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/src/main/resources/server.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/src/main/java/ControllerLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Services/src/main/java/IObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Services/src/main/java/IServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/src/main/java/StartObjectClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/src/main/resources/server.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/src/main/resources/bd.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/src/main/java/StartObjectServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/src/main/resources/spring-server.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/src/main/java/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/src/main/resources/spring-client.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/src/main/java/ControllerAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/src/main/java/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Services_main|Services</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30114943" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="338.0" prefWidth="630.0" style="-fx-background-color: #003b46;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerAgent">
+   <children>
+      <TableView fx:id="table" layoutX="51.0" layoutY="83.0" prefHeight="215.0" prefWidth="263.0" style="-fx-background-color: #66a5ad;">
+        <columns>
+          <TableColumn fx:id="numeCol" prefWidth="75.0" style="-fx-background-color: #66a5ad;" text="Nume" />
+          <TableColumn fx:id="pretCol" prefWidth="75.0" style="-fx-background-color: #66a5ad;" text="Pret" />
+            <TableColumn fx:id="cantCol" prefWidth="112.0000030517578" style="-fx-background-color: #66a5ad;" text="Cantitate" />
+        </columns>
+      </TableView>
+      <Label layoutX="118.0" layoutY="30.0" prefHeight="38.0" prefWidth="142.0" text="Produse" textFill="#66a5ad">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Label>
+      <Button layoutX="345.0" layoutY="243.0" mnemonicParsing="false" onAction="#clickComanda" prefHeight="38.0" prefWidth="97.0" style="-fx-background-color: #66a5ad;" styleClass="btn" stylesheets="@../cssDesign/myButton.css" text="Comanda">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <Label layoutX="345.0" layoutY="138.0" text="Nume" textFill="#1f8c96">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="345.0" layoutY="169.0" text="Cantitate" textFill="#1f8c96">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <TextField fx:id="numeTxt" layoutX="452.0" layoutY="136.0" prefHeight="18.0" prefWidth="115.0" style="-fx-background-color: #66a5ad;" />
+      <TextField fx:id="canText" layoutX="452.0" layoutY="167.0" prefHeight="18.0" prefWidth="115.0" style="-fx-background-color: #66a5ad;" />
+      <Button layoutX="461.0" layoutY="243.0" mnemonicParsing="false" onAction="#clickLogOut" prefHeight="38.0" prefWidth="98.0" style="-fx-background-color: #66a5ad;" styleClass="btn" stylesheets="@../cssDesign/myButton.css" text="LogOut">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+   </children>
+</AnchorPane>

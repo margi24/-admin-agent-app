@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'labServer'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+mainClassName='StartObjectServer'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project (':Services')
+    compile project (':Validator')
+    compile project (':Model')
+    compile project (':Persistance')
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

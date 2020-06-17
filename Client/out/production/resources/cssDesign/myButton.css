@@ -1,0 +1,63 @@
+.btn{
+    -fx-font-weight: bold;
+    -fx-background-color: #66a5ad;
+    -fx-background-radius: 22;
+    -fx-border-radius: 20;
+    -fx-font-size: 12;
+    -fx-text-fill:  #003b46;
+
+}
+
+.btn:hover{
+    -fx-font-weight: bold;
+    -fx-background-color: #66a5ad;
+    -fx-background-radius: 22;
+    -fx-border-radius: 20;
+    -fx-font-size: 15;
+    -fx-text-fill:  #003b46;
+}
+
+.btn:pressed{
+
+    -fx-font-weight: bold;
+    -fx-background-color:#66a5ad;
+    -fx-background-radius: 22;
+    -fx-border-radius: 20;
+    -fx-font-size: 15;
+    -fx-text-fill:  #003b46;
+    -fx-rotate: 20;
+
+}
+
+
+
+.btn2{
+    -fx-font-weight: bold;
+    -fx-background-color: #66a5ad;
+    -fx-background-radius: 22;
+    -fx-border-radius: 20;
+    -fx-font-size: 12;
+    -fx-text-fill:  #003b46;
+
+}
+
+.btn2:hover{
+    -fx-font-weight: bold;
+    -fx-background-color: #003b46;
+    -fx-background-radius: 22;
+    -fx-border-radius: 20;
+    -fx-font-size: 12;
+    -fx-text-fill:  #66a5ad;
+}
+
+
+.combo-box .list-cell {
+    -fx-background-color: #003b46;
+    -fx-text-fill: #66a5ad;
+    -fx-font-weight: bold;
+    -fx-prompt-text-fill: #66a5ad;
+
+}
+.combo-box{
+    -fx-background-color: #003b46;
+}

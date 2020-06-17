@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="351.0" prefWidth="536.0" style="-fx-background-color: #003b46;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerRegister">
+   <children>
+      <Label layoutX="176.0" layoutY="129.0" text="Nume" textFill="#1f8a94">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="175.0" layoutY="172.0" text="Parola" textFill="#1f8c96">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <TextField fx:id="numeTxt" layoutX="246.0" layoutY="127.0" prefHeight="18.0" prefWidth="115.0" style="-fx-background-color: #66a5ad;" />
+      <PasswordField fx:id="parolaTxt" layoutX="246.0" layoutY="170.0" prefHeight="9.0" prefWidth="115.0" style="-fx-background-color: #66a5ad;" />
+      <Label layoutX="175.0" layoutY="49.0" text="Registration" textFill="#1f8a94">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="combo" layoutX="198.0" layoutY="223.0" prefWidth="150.0" promptText="Selecteaza" style="-fx-background-color: #003b46;" styleClass="combo-box" stylesheets="@../cssDesign/myButton.css" />
+      <ImageView fx:id="logImg" fitHeight="35.0" fitWidth="45.0" layoutX="41.0" layoutY="21.0" onMouseClicked="#clickLogOut" onMouseMoved="#imgJump5" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../pozik/logout.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="249.0" layoutY="259.0" mnemonicParsing="false" onAction="#clickAdd" styleClass="btn2" stylesheets="@../cssDesign/myButton.css" text="Adauga" />
+      <Label fx:id="lbl" layoutX="257.0" layoutY="308.0" text="Succes!" textFill="#1f8a94">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+    <util:properties id="jdbcProps" location="classpath:bd.properties"/>
+    <bean id="userRepo" class="repo.RepoUser">
+    </bean>
+    <bean id="ProdusRepo" class="repo.RepoProdus">
+    </bean>
+    <bean id="validatorUser" class="validator.UserValidator">
+    </bean>
+    <bean id="validatorProdus" class="validator.ProdusValidation">
+    </bean>
+    <bean id="service" class="Server">
+        <constructor-arg ref="userRepo"></constructor-arg>
+        <constructor-arg ref="ProdusRepo"></constructor-arg>
+        <constructor-arg ref="validatorUser"></constructor-arg>
+        <constructor-arg ref="validatorProdus"></constructor-arg>
+    </bean>
+    <bean id="RemoteRmiRegistry"  class="org.springframework.remoting.rmi.RmiRegistryFactoryBean">
+        <property name="alwaysCreate" value="true" />
+        <property name="port" value="12345"></property>
+    </bean>
+    <bean class="org.springframework.remoting.rmi.RmiServiceExporter">
+        <property name="service" ref="service"/>
+        <property name="serviceInterface" value="IServer"/>
+        <property name="serviceName" value="Server"/>
+        <property name="replaceExistingBinding" value="true"></property>
+        <property name="registry" ref="RemoteRmiRegistry"></property>
+    </bean>
+</beans>

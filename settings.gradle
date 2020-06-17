@@ -1,0 +1,8 @@
+rootProject.name = 'labServer'
+include 'Model'
+include 'Persistance'
+include 'Server'
+include 'Client'
+include 'Services'
+include 'Validator'
+

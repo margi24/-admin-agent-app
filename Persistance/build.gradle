@@ -1,0 +1,36 @@
+plugins {
+    id 'java'
+}
+
+group 'labServer'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project (':Model')
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.8.2'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.8.2'
+
+    compile 'org.hibernate:hibernate-core:5.2.10.Final'
+    implementation "javax.xml.bind:jaxb-api:2.2.11"
+    implementation "com.sun.xml.bind:jaxb-core:2.2.11"
+    implementation "com.sun.xml.bind:jaxb-impl:2.2.11"
+    implementation "javax.activation:activation:1.1.1"
+    compile group: 'com.zsoltfabok', name: 'sqlite-dialect', version: '1.0'
+   
+    runtime group: 'org.xerial', name: 'sqlite-jdbc', version: '3.16.1'
+
+    compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.8.2'
+
+
+    compile 'org.springframework:spring-context:5.0.4.RELEASE'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

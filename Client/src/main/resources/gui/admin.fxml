@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="401.0" prefWidth="555.0" style="-fx-background-color: #003b46;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerAdmin">
+   <children>
+      <TableView fx:id="table" layoutX="43.0" layoutY="102.0" prefHeight="215.0" prefWidth="263.0" style="-fx-background-color: #66a5ad;">
+         <columns>
+            <TableColumn fx:id="colNume" prefWidth="75.0" style="-fx-background-color: #66a5ad;" text="Denumire" />
+            <TableColumn fx:id="colPret" onEditCommit="#onPretChange" prefWidth="75.0" style="-fx-background-color: #66a5ad;" text="Pret" />
+            <TableColumn fx:id="colCantitate" onEditCommit="#onCantitateChange" prefWidth="112.0000030517578" style="-fx-background-color: #66a5ad;" text="Cantitate" />
+         </columns>
+      </TableView>
+      <Label layoutX="103.0" layoutY="40.0" prefHeight="38.0" prefWidth="142.0" text="Produse" textFill="#66a5ad">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Label>
+      <Label layoutX="348.0" layoutY="155.0" text="Nume" textFill="#1f8c96">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="348.0" layoutY="242.0" text="Cantitate" textFill="#1f8c96">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <TextField fx:id="lblNume" layoutX="420.0" layoutY="153.0" prefHeight="18.0" prefWidth="115.0" style="-fx-background-color: #66a5ad;" />
+      <TextField fx:id="lblCant" layoutX="420.0" layoutY="240.0" prefHeight="18.0" prefWidth="115.0" style="-fx-background-color: #66a5ad;" />
+      <Button layoutX="43.0" layoutY="340.0" mnemonicParsing="false" onAction="#clickAdd" prefHeight="38.0" prefWidth="114.0" style="-fx-background-color: #66a5ad;" styleClass="btn" stylesheets="@../cssDesign/myButton.css" text="Adaugare" />
+      <Label layoutX="348.0" layoutY="198.0" text="Pret" textFill="#1f8c96">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <TextField fx:id="lblPret" layoutX="420.0" layoutY="196.0" prefHeight="18.0" prefWidth="115.0" style="-fx-background-color: #66a5ad;" />
+      <Button layoutX="188.0" layoutY="340.0" mnemonicParsing="false" onAction="#clickDelete" prefHeight="38.0" prefWidth="114.0" style="-fx-background-color: #66a5ad;" styleClass="btn" stylesheets="@../cssDesign/myButton.css" text="Stergere" />
+      <ImageView fx:id="imgCont" fitHeight="38.0" fitWidth="68.0" layoutX="497.0" layoutY="31.0" onMouseClicked="#clickCont" onMouseMoved="#contMove" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../pozik/user.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="logImg" fitHeight="49.0" fitWidth="43.0" layoutX="435.0" layoutY="28.0" onMouseClicked="#clickLogOut" onMouseMoved="#imgJump5" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../pozik/logout.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

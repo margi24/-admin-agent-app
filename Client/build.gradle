@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'labServer'
+version '1.0-SNAPSHOT'
+mainClassName='StartObjectCLient'
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile project (":Model")
+    compile project (":Server")
+    compile project (":Services")
+    compile "org.openjfx:javafx-base:11:win"
+    compile "org.openjfx:javafx-graphics:11:win"
+    compile "org.openjfx:javafx-controls:11:win"
+    compile "org.openjfx:javafx-fxml:11:win"
+    compile 'io.github.typhon0:AnimateFX:1.2.1'
+
+
+}
